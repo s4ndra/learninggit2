@@ -1,4 +1,4 @@
 this is all right
-new lines also right
+new lines also right.
 
 another new change - jos nesto
