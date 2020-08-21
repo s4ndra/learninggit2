@@ -1,7 +1,9 @@
 here is ABC true new file
 
-a new line here
+a new line here, git commit -v here also
 
 xheck diff
 
 this is a 3rd change, not staged
+
+and now to test git commit -v
