@@ -7,3 +7,6 @@ xheck diff
 this is a 3rd change, not staged
 
 and now to test git commit -v
+
+
+new line to commit
