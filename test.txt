@@ -1,6 +1,6 @@
 this is all right
 
-change feature B
+change feature B, plus for B
 
 ////45
 
