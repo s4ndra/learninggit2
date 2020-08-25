@@ -12,6 +12,6 @@ hotfix changes ! urgent !
 
 issue change
 
-master change
+master MASTER TEST 2 AFTER REBASE OF FEAT B change
 
 a change for feature A
