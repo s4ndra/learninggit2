@@ -12,6 +12,6 @@ hotfix changes ! urgent !
 
 issue change
 
-master MASTER TEST 2 AFTER REBASE OF FEAT B change
+master MASTER TEST 2 AFTER REBASE OF FEAT B and ADD B CHANGE (after resolving rebase conflict) change
 
 a change for feature A
